@@ -1,5 +1,0 @@
-Compiling the program using G++ compiler:
-command: "g++ mission.cpp -o mission"
-
-Running the program:-
-command: "./mission"
